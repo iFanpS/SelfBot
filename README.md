@@ -1,0 +1,2 @@
+# SelfBot
+Python selfbot base
